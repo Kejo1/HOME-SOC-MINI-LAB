@@ -1,4 +1,4 @@
-# 🛡️ Home Lab SOC — Wykrywanie Ataków z Wazuh SIEM
+# 🛡️ Home SOC MINI LAB - Wykrywanie Ataków z Wazuh SIEM
 
 > Mini-SOC zbudowany od zera w VirtualBox: symulacja ataku end-to-end (rekonesans → brute-force → próba dostawy malware → Living off the Land) wykryta i przeanalizowana w Wazuh SIEM, z mapowaniem na MITRE ATT&CK.
 
@@ -6,14 +6,14 @@
 
 ## 📋 Spis treści
 
-- [O projekcie](#o-projekcie)
-- [Architektura](#architektura)
-- [Stack technologiczny](#stack-technologiczny)
-- [Przebieg ataku i detekcji (Attack Chain)](#przebieg-ataku-i-detekcji-attack-chain)
-- [Napotkane problemy i ich rozwiązanie](#napotkane-problemy-i-ich-rozwiązanie)
-- [Mapowanie MITRE ATT&CK](#mapowanie-mitre-attck)
-- [Czego się nauczyłem](#czego-się-nauczyłem)
-- [Jak odtworzyć projekt](#jak-odtworzyć-projekt)
+- [O projekcie](#-o-projekcie)
+- [Architektura](#%EF%B8%8F-architektura)
+- [Stack technologiczny](#-stack-technologiczny)
+- [Przebieg ataku i detekcji (Attack Chain)](#%EF%B8%8F-przebieg-ataku-i-detekcji-attack-chain)
+- [Napotkane problemy i ich rozwiązanie](#-napotkane-problemy-i-ich-rozwiązanie)
+- [Mapowanie MITRE ATT&CK](#%EF%B8%8F-mapowanie-mitre-attck)
+- [Czego się nauczyłem](#%EF%B8%8F-mapowanie-mitre-attck)
+- [Jak odtworzyć projekt](#-jak-odtworzyć-projekt)
 
 ---
 
