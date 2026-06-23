@@ -168,7 +168,7 @@ Restart-Service WazuhSvc -Force
 
 > `<localfile>` - blok konfiguracyjny Wazuh definiujący dodatkowe źródło logów · `eventchannel` = format wskazujący, że źródłem jest kanał zdarzeń Windows (Event Log), nie plik tekstowy
 
-Po restarcie usługi agenta, zdarzenia Sysmon (Event ID 1, 3, 11) zaczęły poprawnie trafiać do Wazuh Managera, co umożliwiło detekcję opisaną w Fazie B i C.
+Po restarcie usługi agenta, zdarzenia Sysmon (Event ID 3, 11) zaczęły poprawnie trafiać do Wazuh Managera, co umożliwiło detekcję opisaną w Fazie B i C.
 
 ---
 
